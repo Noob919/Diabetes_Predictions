@@ -1,1 +1,1 @@
-This Contain all the dataset used for this study.
+This folder contain all the dataset used for this study.
